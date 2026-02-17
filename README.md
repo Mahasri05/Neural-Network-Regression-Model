@@ -11,7 +11,7 @@ Regression problems aim to predict continuous numerical values from given input 
 
 ## Neural Network Model
 
-<img width="850" height="948" alt="image" src="https://github.com/user-attachments/assets/c33505d4-0ab0-4746-858a-634a1a23ff65" />
+<img width="917" height="806" alt="image" src="https://github.com/user-attachments/assets/e4076740-1f06-4403-bb1c-f12ea3f0a06c" />
 
 
 ## DESIGN STEPS
